@@ -9,7 +9,7 @@ O objetivo deste projeto foi desenvolver um algoritmo simples em Python que util
 ## O problema
 Atualmente, a maioria dos modelos de IA pré-treinados é otimizada para línguas indo-europeias, o que limita sua aplicação para línguas menos representadas, como o Ticuna. Isso dificulta a tradução e o desenvolvimento de tecnologias de IA generativa para essas línguas.
 ## A solução
-Desenvolver um programa que associe frases do texto em português à sua tradução em Ticuna pode ajudar a superar esse desafio. Essa solução poder ser útil na criação e implementação de modelos de IA generativa adaptados para a língua Ticuna, promovendo a construção de tecnologias mais inclusivas e representativas, ampliando o acesso para essas línguas.
+Desenvolver um programa que associe frases do texto em português à sua tradução em Ticuna pode ajudar a superar esse desafio. Essa solução pode ser útil na criação e implementação de modelos de IA generativa adaptados para a língua Ticuna, promovendo a construção de tecnologias mais inclusivas e representativas, ampliando o acesso para essas línguas.
 
 ## Executar a Aplicação
 1. Clonar o Repositório:
